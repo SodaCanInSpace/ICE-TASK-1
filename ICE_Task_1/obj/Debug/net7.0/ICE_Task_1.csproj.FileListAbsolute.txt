@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\bin\Debug\net7.0\ICE_Task_1.exe
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\bin\Debug\net7.0\ICE_Task_1.deps.json
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\bin\Debug\net7.0\ICE_Task_1.runtimeconfig.json
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\bin\Debug\net7.0\ICE_Task_1.dll
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\bin\Debug\net7.0\ICE_Task_1.pdb
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\ICE_Task_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\ICE_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\ICE_Task_1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\ICE_Task_1.AssemblyInfo.cs
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\ICE_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\ICE_Task_1.dll
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\refint\ICE_Task_1.dll
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\ICE_Task_1.pdb
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\ICE_Task_1.genruntimeconfig.cache
+C:\Users\user\Desktop\Prog6112\ICE_Task_1\obj\Debug\net7.0\ref\ICE_Task_1.dll
